@@ -21,3 +21,9 @@ Caso de Teste:
 
 Link do projeto em produção no servidor do Heroku:
 https://damp-peak-81551.herokuapp.com/
+
+
+Comandos para reiniciar o heroku:  
+heroku buildpacks:clear
+heroku buildpacks:set heroku/php
+git add/commit/push heroku master
