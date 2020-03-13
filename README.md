@@ -19,5 +19,5 @@ Caso de Teste:
 3-) Verifique se ele possui 39 de HP e um peso de 8.5 Kg.       
 
 
-Link do porjeto em produção no servidor do Heroku:
+Link do projeto em produção no servidor do Heroku:
 https://damp-peak-81551.herokuapp.com/
