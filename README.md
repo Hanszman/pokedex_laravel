@@ -17,3 +17,7 @@ Caso de Teste:
 1-) Selecione a Região "Kanto";
 2-) Selecione o Pokémon "#004 - Charmander";
 3-) Verifique se ele possui 39 de HP e um peso de 8.5 Kg
+
+
+Link do porjeto em produção no servidor do Heroku:
+https://damp-peak-81551.herokuapp.com/
