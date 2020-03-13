@@ -26,4 +26,5 @@ https://damp-peak-81551.herokuapp.com/
 Comandos para reiniciar o heroku:  
 heroku buildpacks:clear
 heroku buildpacks:set heroku/php
+heroku buildpacks:set heroku/nodejs
 git add/commit/push heroku master
